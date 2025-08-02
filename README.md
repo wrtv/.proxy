@@ -21,13 +21,13 @@ Find proxies that are available in your country and use them in your application
 
   - **all**
     ```bash
-    https://raw.githubusercontent.com/v2clash/.proxy/main/all
+    https://raw.githubusercontent.com/wrtv/.proxy/main/all
     ```
   - **vmess**
     ```bash
-    https://raw.githubusercontent.com/v2clash/.proxy/main/vmess
+    https://raw.githubusercontent.com/wrtv/.proxy/main/vmess
     ```
   - **shadowsocks**
     ```bash
-    https://raw.githubusercontent.com/v2clash/.proxy/main/ss
+    https://raw.githubusercontent.com/wrtv/.proxy/main/ss
     ```

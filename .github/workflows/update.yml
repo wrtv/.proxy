@@ -38,6 +38,6 @@ jobs:
         with:
           commit_message: "Update Configs at ${{ steps.date.outputs.date }}"
           commit_options: '--no-verify --signoff'
-          commit_user_name: "jianghudadashasha"
-          commit_user_email: "mail@ysx66.com"
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"
           
